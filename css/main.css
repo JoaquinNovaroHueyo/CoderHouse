@@ -327,3 +327,35 @@ img {
       background-position: 0% 50%;
   }
 }
+
+/** PRUEBAS ANIMACIONES Y TRANSICIONES PARA REPO GITHUB **/
+
+.grid-gradient-greenwhite{
+  background: linear-gradient(-45deg, #f8f7f6, #f4cbda, #74d4f6, #078e6e);
+  background-size: 400% 400%;
+}
+
+.grid-gradient-anom {
+  background: linear-gradient(-45deg, #f8f7f6, #f4cbda, #010e13, #078e6e);
+  background-size: 400% 400%;
+
+}
+
+.grid-gradient-anome {
+  background: linear-gradient(-45deg, #e27509, #eca604, #ed9a0b, #ff4800);
+  background-size: 400% 400%;
+
+}
+
+.grid-gradient-anomen {
+  background: linear-gradient(-45deg, #3f006f, #0a7084, #0beded, #dcf8ff);
+  background-size: 400% 400%;
+  color: black;
+
+}
+
+.grid-gradient-anomene {
+  background: linear-gradient(-45deg, #6f1c00,  #e98080);
+  background-size: 400% 400%;
+
+}
