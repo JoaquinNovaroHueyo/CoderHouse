@@ -1,0 +1,22 @@
+/** NAVEGADOR **/
+$fuente-primaria: "Raleway", sans-serif, 1.6rem, line-height 0, margin 0; 
+
+$logo:display;
+
+.logo-pages img{
+    @if $logo == display{
+        width: 35%;
+        height: 70%;
+        margin-left: 20px;
+        margin-top: 35px;
+        filter: drop-shadow(0 0 0.75rem rgb(88, 246, 251));
+    
+    }
+    @else if $logo == none{
+        display: none;
+    }
+    
+} 
+
+
+

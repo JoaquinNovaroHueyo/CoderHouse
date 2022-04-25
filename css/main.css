@@ -46,6 +46,10 @@ img {
 
 /** NAVEGADOR **/
 
+.navegador{
+  display: flex;
+}
+
 .navegador li {
   display: flex;
   display: inline-block;
