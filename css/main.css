@@ -470,7 +470,7 @@ img {
 /** CONTACTO **/
 .mainContact{
   min-height: 100vh;
-  background: url(../img/contact-background.jpg) no-repeat;
+  background-image: url(../img/contact-background.jpg);
   background-size: cover;
   display: flex;
   justify-content: center;
