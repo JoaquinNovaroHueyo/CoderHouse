@@ -467,6 +467,19 @@ img {
 }
 
 
+/** TABERNAS **/
+
+.encabezadoTabernas{
+  font-size: 2.5rem;
+}
+
+.encabezadoSlider{
+  text-decoration: none;
+  color: #fff;
+  font-size: 3.5rem;
+}
+
+
 /** CONTACTO **/
 .mainContact{
   min-height: 100vh;
